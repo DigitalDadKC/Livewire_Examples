@@ -11,7 +11,7 @@
 <body>
     <div class="container">
         <div class="row" style="margin-top: 45px">
-            <div class="col-md-12 offset-md-3">
+            <div class="col-md-12">
                 <h4>World Countries</h4>
                 @livewire('countries')
             </div>

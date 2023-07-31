@@ -42,7 +42,7 @@
             <button class="btn btn-danger" wire:click="deleteCountries()">Selected Countries({{count($checkedCountry)}})</button>
         @endif
     </div>
-    <table class="table table-hover table-responsive">
+    <table class="table table-hover">
         <thead class="thead-inverse">
             <th></th>
             <th>Continent</th>
